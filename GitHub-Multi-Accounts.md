@@ -47,7 +47,7 @@
 
 * 仅记之；
 * 学习并使用Markdown，简单快捷高效地写文章(本文用markdown编辑而成),你可以通过这里观看效果 [GitHub-Multi-Accounts](https://github.com/lishunli/GitHub-Multi-Accounts/blob/master/GitHub-Multi-Accounts.md)；
-* 学习git，本篇文章你可以fork: 
+* 学习git，本篇文章你可以[fork](https://github.com/lishunli/GitHub-Multi-Accounts/fork_select) or clone : 
 		
 		git clone git://github.com/lishunli/GitHub-Multi-Accounts.git
 	
