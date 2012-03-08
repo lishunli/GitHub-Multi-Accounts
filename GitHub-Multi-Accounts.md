@@ -41,7 +41,7 @@
 	 IdentityFile ~/.ssh/id_rsa_lishunli
 	
 无图无真相<br>
-![hello lishunli](infos.png "hello lishunli")
+![hello lishunli](https://github.com/lishunli/GitHub-Multi-Accounts/blob/master/infos.png "hello lishunli")
 
 这篇文章没有点点技术,主要用于以下用途：
 
