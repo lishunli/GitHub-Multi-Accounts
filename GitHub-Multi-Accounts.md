@@ -40,12 +40,13 @@
 	 User git
 	 IdentityFile ~/.ssh/id_rsa_lishunli
 	
-
+无图无真相<br>
+![hello lishunli](infos.png "hello lishunli")
 
 这篇文章没有点点技术,主要用于以下用途：
 
 * 仅记之；
-* 学习并使用Markdown，简单快捷高效地写文章(本文用markdown编辑而成)；
+* 学习并使用Markdown，简单快捷高效地写文章(本文用markdown编辑而成),你可以通过这里观看效果 [GitHub-Multi-Accounts](https://github.com/lishunli/GitHub-Multi-Accounts/blob/master/GitHub-Multi-Accounts.md)；
 * 学习git，本篇文章你可以fork: 
 		
 		git clone git@github.com:lishunli/GitHub-Multi-Accounts.git
