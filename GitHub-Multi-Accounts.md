@@ -41,7 +41,7 @@
 	 IdentityFile ~/.ssh/id_rsa_lishunli
 	
 无图无真相<br>
-![hello lishunli](https://github.com/lishunli/GitHub-Multi-Accounts/blob/master/infos.png?raw=true "hello lishunli")
+![hello lishunli][img1]
 
 这篇文章没有点点技术,主要用于以下用途：
 
@@ -57,3 +57,4 @@
 
 [github]: https://github.com/
 [顺利]: http://www.blogjava.net/lishunli/
+[img1]: https://github.com/lishunli/GitHub-Multi-Accounts/blob/master/infos.png?raw=true "hello lishunli"
